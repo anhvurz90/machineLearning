@@ -18,5 +18,17 @@ Lecturer: Prof Andrew Ng.
 			+ Classification 
 				* Malignant/tumor
 				* Malignant/age, tumor size
+		- Learning Theory:
+		- Unsupervised Learning:
+			+ Clustering
+			+ Organize computing clusters
+			+ Social network analysis
+			+ Market segmentation
+			+ Astronomical data analysis
+			+ Cocktail party problem
+				ICA algorithm:
+			   [W, s, v] = svd((repmat(sum(x.^x,1),size(x,1),1).^x)^x');
+		- Reinforcement Learning
+			
 	}
 }
